@@ -1,5 +1,5 @@
-var url = "aamps://dash.akamaized.net/dash264/TestCasesMCA/dolby/3/1/ChID_voices_20_128_ddp.mpd";
-//var url ="aamps://nlitenams-inso.streaming.media.azure.net/e14ba364-9de4-4252-908d-aa4e622748d7/The_Chase_30_sec_animation.ism/manifest(format=mpd-time-csf,encryption=cenc).mpd";
+//var url = "aamps://dash.akamaized.net/dash264/TestCasesMCA/dolby/3/1/ChID_voices_20_128_ddp.mpd";
+var url ="aamps://nlitenams-inso.streaming.media.azure.net/e14ba364-9de4-4252-908d-aa4e622748d7/The_Chase_30_sec_animation.ism/manifest(format=mpd-time-csf,encryption=cenc).mpd";
 //var player;
 var isVideoPlaying = false;
 var playbackPosition = 0;
